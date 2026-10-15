@@ -1,0 +1,4 @@
+export enum OtpPurpose {
+  PATIENT_LOGIN = 'PATIENT_LOGIN',
+  PASSWORD_RESET = 'PASSWORD_RESET',
+}
